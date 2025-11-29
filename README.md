@@ -16,8 +16,8 @@ il suffit de faire deux choses:
 1. Télécharger le fichier ou directement cloner le répository github
 
 ```bash
-git clone repo shinra_tensei
-cd shinra_tensei
+git@github.com:ranto-dev/WiGuard.git
+cd WiGuard
 ```
 
 2. Gérer le droit d'exécution du script avec la commande `chmod` puis l'exécuter
